@@ -20,7 +20,7 @@ A **Harry Potter (Series 1)** 10-episode daily-release web app built with **Next
 
 | Ep | Title | Status |
 | :--- | :--- | :--- |
-| 01 | The Boy Who Lived | Planned |
+| 01 | The Boy Who Lived | Released (2026-11-17) |
 | 02 | Letters from No One | Planned |
 | 03 | Diagon Alley | Planned |
 | 04 | Platform 9¾ | Planned |
